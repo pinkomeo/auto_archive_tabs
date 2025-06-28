@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Tab Archive: Show History",
+        "command": "show_tab_archive"
+    },
+    {
+        "caption": "Tab Archive: Open Folder",
+        "command": "open_archive_folder"
+    },
+    {
+        "caption": "Tab Archive: Clear All",
+        "command": "clear_tab_archive"
+    }
+]

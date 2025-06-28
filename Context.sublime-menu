@@ -1,0 +1,17 @@
+[
+    {
+        "caption": "Tab Archive 草稿箱",
+        "children":
+        [
+            {
+                "caption": "显示草稿历史",
+                "command": "show_tab_archive"
+            },
+            {
+                "caption": "打开草稿目录", 
+                "command": "open_archive_folder"
+            }
+        ]
+    },
+    { "caption": "-" }
+]

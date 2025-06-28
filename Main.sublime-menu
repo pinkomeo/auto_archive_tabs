@@ -1,0 +1,30 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Tab Archive",
+                "id": "tab_archive",
+                "children":
+                [
+                    {
+                        "caption": "Show Archive History",
+                        "command": "show_tab_archive"
+                    },
+                    {
+                        "caption": "Open Archive Folder",
+                        "command": "open_archive_folder"
+                    },
+                    { "caption": "-" },
+                    {
+                        "caption": "Clear All Archives",
+                        "command": "clear_tab_archive"
+                    }
+                ]
+            }
+        ]
+    }
+]

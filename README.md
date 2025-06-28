@@ -41,6 +41,10 @@ https://github.com/pinkomeo/auto_archive_tabs
 
 # 截图
 
+* 文件目录的样子
+
+<img width="732" alt="image" src="https://github.com/user-attachments/assets/d55ad7bb-5cc5-4521-9ad1-0ea8fcce4bd0" />
+
 * 右键菜单
   
 ![p0](https://github.com/user-attachments/assets/59430eb8-c209-48ef-9b6c-1006e5520678)
